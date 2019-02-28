@@ -1,7 +1,7 @@
 {
-  "name": "coffeelint-server",
+  "name": "coffeelint-server2",
   "description": "Coffeelint server for vscode",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "Jonathan Rauprich",
   "license": "MIT",
   "engines": {
