@@ -6,5 +6,5 @@ If you are new to CoffeeLint check the documentation [here](https://github.com/c
 ## Configuration Options
 - `coffeelint.enable`: enable/diable coffeelint. Is enabled by default.
 
-## Contributions
+## Contributing
 See [GitHub](https://github.com/hellodigit/vscode-coffeelint).
