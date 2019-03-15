@@ -7,10 +7,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/slb235/vscode-coffeelint.git"
+    "url": "https://github.com/hellodigit/vscode-coffeelint.git"
   },
   "bugs": {
-    "url": "https://github.com/slb235/vscode-coffeelint/issues"
+    "url": "https://github.com/hellodigit/vscode-coffeelint/issues"
   },
   "publisher": "freewil",
   "icon": "CoffeeScript-logo.png",
