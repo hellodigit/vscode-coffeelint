@@ -12,7 +12,7 @@
   "bugs": {
     "url": "https://github.com/slb235/vscode-coffeelint/issues"
   },
-  "publisher": "slb235",
+  "publisher": "freewil",
   "icon": "CoffeeScript-logo.png",
   "engines": {
     "vscode": "0.10.x"
