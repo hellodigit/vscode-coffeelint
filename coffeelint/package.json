@@ -3,7 +3,7 @@
   "displayName": "CoffeeLint2",
   "description": "Integrates CoffeeLint into VS Code.",
   "author": "Jonathan Rauprich",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "license": "MIT",
   "repository": {
     "type": "git",
