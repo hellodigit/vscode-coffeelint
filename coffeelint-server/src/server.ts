@@ -73,7 +73,7 @@ function validateTextDocument(textDocument: ITextDocument): void {
         start: {line:issue.lineNumber-1, character:0},
         end: {line:issue.lineNumber-1, character:10000} // end of line, no cols in coffeelint
       },
-      message: issue.message
+      message: issue.message + " (" + issue.rule + ")"
     })
   }
 
