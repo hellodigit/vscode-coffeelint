@@ -14,4 +14,4 @@ $ npx coffeelint --makeconfig > coffeelint.json
 See [GitHub](https://github.com/hellodigit/vscode-coffeelint).
 
 ## Download
-Download form [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=freewil.vscode-coffeelint2).
+Download from [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=freewil.vscode-coffeelint2).
