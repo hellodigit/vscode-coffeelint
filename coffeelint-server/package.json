@@ -8,8 +8,8 @@
     "node": "*"
   },
   "dependencies": {
-    "vscode-languageserver": "^1.1.0",
-    "coffeelint": "github:hellodigit/coffeelint#digit-fork"
+    "coffeelint": "github:hellodigit/coffeelint#digit-fork",
+    "vscode-languageserver": "^1.1.0"
   },
   "devDependencies": {
     "typescript": "^1.6.2"
