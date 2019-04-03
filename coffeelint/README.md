@@ -1,4 +1,4 @@
-# VS Code ESLint extension
+# CoffeeLint extension for VS Code
 Integrates [CoffeeLint](https://github.com/clutchski/coffeelint) into VS Code.
 
 This extension reads the `coffeelint.json` file in the root of the workspace (project). If your project doesn't have this file yet, then just run:
