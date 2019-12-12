@@ -58,7 +58,7 @@ function validateTextDocument(textDocument: ITextDocument): void {
   for(var issue of issues) {
     var severity;
 
-    if(issue.level === "warning") {
+    if(issue.level === "warn") {
       severity = DiagnosticSeverity.Warning;
     } else if(issue.level === "error") {
       severity = DiagnosticSeverity.Error;
